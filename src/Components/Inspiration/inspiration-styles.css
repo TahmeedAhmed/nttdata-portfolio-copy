@@ -1,0 +1,11 @@
+.inspire {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:#f69e7b;
+    height: 50vh;
+}
+.content-box {
+    text-align: center;
+}
